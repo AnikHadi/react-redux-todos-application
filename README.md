@@ -1,6 +1,6 @@
 # Project Title
 
-Redux Project
+Redux Project React Redux Todos Application
 
 ## Authors
 
@@ -8,30 +8,24 @@ Redux Project
 
 ## Documentation
 
-[Live Project](https://linktodocumentation)
+[Live Project](https://comfy-souffle-50b2ba.netlify.app/)
 
 ## How to run
 
 Please follow the below instructions to run this branch in your machine:
 
-- Login to the GitHub account on which you have been granted access to this repository. If you have purchased the course but didn't get the access to this repository, please contact our support team. You will find contact details below.
+- Login to the GitHub account on which you have been granted access to this repository.
 
 - Clone this repository -
 
 ```bash
-  git clone https://github.com/HadiAnik/think-in-a-redux-way
+  git clone https://github.com/HadiAnik/react-redux-todos-application.git
 ```
 
 - Go to the cloned project directory
 
 ```bash
-  cd think-in-a-redux-way
-```
-
-- Checkout/switch to branch 2.9
-
-```bash
-  git checkout 2.9
+  cd react-redux-todos-application
 ```
 
 - Install dependencies
