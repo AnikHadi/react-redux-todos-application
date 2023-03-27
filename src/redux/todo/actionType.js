@@ -1,3 +1,4 @@
+export const LOADED_TODO = "todo/LOADED_TODO";
 export const ADD_TODO = "todo/ADD_TODO";
 export const COLOR = "todo/COLOR";
 export const TOGGLED = "todo/TOGGLED";

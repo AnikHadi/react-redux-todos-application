@@ -4,8 +4,16 @@ import {
   CLEARCOMPLETED,
   COLOR,
   DELETE_TODO,
+  LOADED_TODO,
   TOGGLED,
 } from "./actionType";
+
+export const loadedTodo = (todoText) => {
+  return {
+    type: LOADED_TODO,
+    payload: todoText,
+  };
+};
 
 export const addTodo = (todoText) => {
   return {
